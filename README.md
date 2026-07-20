@@ -1,190 +1,113 @@
-🔐 Password Strength Checker Using Python
+# 🔐 DecodeLabs Cyber Security Internship Projects
 
-A simple yet effective Python application that evaluates the strength of a password based on essential cybersecurity principles. The program analyzes password length, uppercase letters, lowercase letters, digits, and special characters to determine whether the password is Weak, Medium, or Strong. It also provides recommendations to help users create more secure passwords.
+Welcome to my Cyber Security Internship repository. This repository contains the projects completed as part of the **DecodeLabs Cyber Security Internship Program**. These projects demonstrate fundamental cybersecurity concepts implemented using Python.
 
-This project was developed as part of a Cybersecurity Internship to demonstrate fundamental password validation techniques and promote awareness of secure authentication practices.  
+---
 
-⸻
+# 👨‍💻 Author
 
-📖 Overview
+**Name:** Anubhav Nayak  
+**Course:** B.Tech (3rd Year)  
+**Branch:** Computer Science & Engineering (IoT)  
+**Institute:** Institute of Technical Education and Research (ITER), SOA University, Bhubaneswar  
+**Internship:** DecodeLabs Cyber Security Internship
 
-Weak passwords are one of the most common causes of unauthorized account access. This project helps users evaluate their passwords against commonly accepted security standards. By checking multiple password characteristics and providing instant feedback, the application encourages users to create stronger and more reliable passwords.
+---
 
-The project also demonstrates core Python programming concepts such as string manipulation, loops, conditional statements, functions, and input validation.
+# 📂 Projects Included
 
-⸻
+## 🔑 Project 1: Password Strength Checker
+A Python application that evaluates password strength based on security standards such as uppercase letters, lowercase letters, numbers, special characters, and password length.
 
-✨ Features
+### Features
+- Password strength validation
+- Security recommendations
+- Beginner-friendly implementation
 
-* 🔍 Checks password length
-* 🔠 Detects uppercase letters
-* 🔡 Detects lowercase letters
-* 🔢 Detects numeric digits
-* 🔣 Detects special characters
-* 📊 Classifies passwords as Weak, Medium, or Strong
-* 💡 Provides suggestions to improve weak passwords
-* ⚡ Fast and lightweight command-line application
+---
 
-⸻
+## 🔐 Project 2: Basic Encryption & Decryption
+A Python program that encrypts and decrypts text using a simple encryption algorithm to demonstrate basic cryptography concepts.
 
-🛠️ Technologies Used
+### Features
+- Encrypt text
+- Decrypt encrypted messages
+- Easy-to-understand implementation
 
-* Python 3
-* String Handling
-* Conditional Statements
-* Loops
-* Functions
-* Built-in Python Methods
+---
 
-⸻
+## 🎣 Project 3: Phishing Awareness Analysis
+A Python project that educates users about phishing attacks by identifying common phishing indicators in suspicious messages and websites.
 
-📂 Project Structure
-Password-Strength-Checker/
-│── password_strength_checker.py
-│── README.md
-⚙️ How It Works
+### Features
+- Phishing awareness
+- Security education
+- Simple analysis tool
 
-1. The user enters a password.
-2. The program checks:
-    * Password length
-    * Uppercase letters
-    * Lowercase letters
-    * Numbers
-    * Special characters
-3. A security score is calculated.
-4. The password is classified as:
-    * Weak
-    * Medium
-    * Strong
-5. If necessary, improvement suggestions are displayed.
+---
 
-⸻
+## 🛡️ Project 4: System Vulnerability Checklist
+A Python-based security checklist that helps users review important system security practices and identify common vulnerabilities.
 
-▶️ Example
-Enter your password: Hello123
+### Features
+- Security checklist
+- Vulnerability awareness
+- Basic cybersecurity assessment
 
-Password Strength: Medium
+---
 
-Suggestions:
-- Add at least one special character.
-- Increase the password length for better security.
+# 🛠️ Technologies Used
 
-  🎯 Objectives
+- Python 3
+- Visual Studio Code
+- Git
+- GitHub
 
-* Promote secure password creation.
-* Demonstrate password validation using Python.
-* Improve understanding of cybersecurity fundamentals.
-* Build a beginner-friendly security application.
 
-⸻
+# 📚 Learning Outcomes
 
-🚀 Future Improvements
+During this internship, I gained practical knowledge of:
 
-* Password entropy calculation
-* Common password database detection
-* Password breach checking
-* Password generator
-* Graphical User Interface (GUI)
-* Real-time password strength meter
-* Integration with user authentication systems
+- Password Security
+- Basic Cryptography
+- Phishing Detection
+- System Security Assessment
+- Python Programming
+- Git & GitHub Version Control
 
-⸻
+---
 
-📚 Learning Outcomes
+# 📁 Repository Structure
 
-Through this project, I gained practical experience in:
+```
+├── Project 1: Password Strength Checker.PY
+├── Project 2: Basic Encryption & Decryption.PY
+├── Project 3: Phishing Awareness Analysis.PY
+├── Project 4: System Vulnerability Checklist.PY
+└── README.md
+```
 
-* Python programming
-* String processing
-* Conditional logic
-* Function-based programming
-* Secure password validation
-* Cybersecurity awareness
-* Problem-solving techniques
+---
 
-⸻
+# 🎯 Objective
 
-📌 Applications
+The purpose of this repository is to showcase the practical projects completed during the **DecodeLabs Cyber Security Internship**, demonstrating foundational cybersecurity skills through Python programming.
 
-* User registration systems
-* Login authentication modules
-* Educational cybersecurity projects
-* Password management tools
-* Banking and enterprise applications
+---
 
-⸻
+# 🙏 Acknowledgement
 
-🤝 Contributing
+I sincerely thank **DecodeLabs** for providing this internship opportunity and helping me enhance my cybersecurity and Python programming skills through practical learning.
 
-Contributions, suggestions, and improvements are welcome. Feel free to fork this repository, submit pull requests, or open issues to enhance the project.
+---
 
-⸻
+# 📧 Contact
 
-📄 License
+**Anubhav Nayak**  
+🎓 B.Tech (3rd Year), CSE (IoT)  
+🏫 ITER, SOA University, Bhubaneswar  
+🐙 GitHub: https://github.com/ROCKY3115
 
-This project is intended for educational and learning purposes. You are free to use, modify, and improve the code with proper attribution.
+---
 
-⸻
-
-👨‍💻 Author
-
-Anubhav Sahoo🎯 Objectives
-
-* Promote secure password creation.
-* Demonstrate password validation using Python.
-* Improve understanding of cybersecurity fundamentals.
-* Build a beginner-friendly security application.
-
-⸻
-
-🚀 Future Improvements
-
-* Password entropy calculation
-* Common password database detection
-* Password breach checking
-* Password generator
-* Graphical User Interface (GUI)
-* Real-time password strength meter
-* Integration with user authentication systems
-
-⸻
-
-📚 Learning Outcomes
-
-Through this project, I gained practical experience in:
-
-* Python programming
-* String processing
-* Conditional logic
-* Function-based programming
-* Secure password validation
-* Cybersecurity awareness
-* Problem-solving techniques
-
-⸻
-
-📌 Applications
-
-* User registration systems
-* Login authentication modules
-* Educational cybersecurity projects
-* Password management tools
-* Banking and enterprise applications
-
-⸻
-
-🤝 Contributing
-
-Contributions, suggestions, and improvements are welcome. Feel free to fork this repository, submit pull requests, or open issues to enhance the project.
-
-⸻
-
-📄 License
-
-This project is intended for educational and learning purposes. You are free to use, modify, and improve the code with proper attribution.
-
-⸻
-
-👨‍💻 Author
-
-Anubhav Nayak
+⭐ **Thank you for visiting this repository!**
